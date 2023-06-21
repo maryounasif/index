@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Your Name: Maryou Nasif -->
+    <title>Independence Day</title>
+    <style>
+       body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        hr {
+            margin: 20px 0;
+            border: none;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Independence Day</h1>
+    <img src="Independence_Day.jpg" alt="Independence Day Logo">
+    <p>Two facts about the Independence Day:</p>
+    </ul>
+        <li>Celebrating Freedom</li>
+        <li>Symbolic Colors For This Celebrating</li>
+    </ul>
+    <hr>
+    <p>Image credit: Independence Day</p>
+    <p>Sources:</p>
+    <ul>
+        <li>Independence Day as a celebration of freedom, liberty, and democratic ideals
+        </li>Source: Library of Congress.</li>
+    </ul>
+    <li>The symbolism of the colors red, white, and blue on Independence Day
+    </li>Source: Smithsonian National Museum of American History.</li>
+    </ul>
+</body>
+</html>

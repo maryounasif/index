@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Your Name: Maryou Nasif -->
+    <title>Juneteenth</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        hr {
+            margin: 20px 0;
+            border: none;
+            border-top: 1px solid #DE3163;
+        }
+    </style>
+</head>
+<body>
+    <h1>Juneteenth</h1>
+    <img src="juneteenth-freedom.jpg" alt="Silly Maryou Juneteenth Logo">
+    <p>Two facts about Juneteenth:</p>
+    <ul>
+        <li>Emancipation Proclamation</li>  
+        <li>Symbol of Freedom</li>
+        <li><li>National Recognition</li>
+    </ul>
+    <hr>
+    <p>Image credit: Juneteenth Image</p>
+    <p>Sources:</p>
+    <ul>
+        <li>Juneteenth commemorates the day when enslaved African Americans in Galveston, Texas, received news of their freedom on June 19, 1865, more than two years after the Emancipation Proclamation
+        </li>Source: National Museum of African American History and Culture - Smithsonian Institution.</li>
+    </ul>
+    <li>Juneteenth represents the end of slavery in the United States and symbolizes liberation, resilience, and the ongoing pursuit of equality and justice
+    </li>Source: Juneteenth history</li>
+    </ul>
+    <li>Juneteenth has gained increasing recognition and observance across the United States, with growing efforts to make it a national holiday
+    </li>Source: National Archives and Records AdministrationS</li>
+</ul>
+</body>
+</html>
